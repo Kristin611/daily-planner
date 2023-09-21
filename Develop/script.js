@@ -68,7 +68,7 @@ $(function () {
     }  
     displayTimeBlockColor();
 
-    setInterval(displayTimeBlockColor, 15000)
+    //setInterval(displayTimeBlockColor, 15000)
 
     
 
